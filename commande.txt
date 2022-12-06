@@ -1,0 +1,33 @@
+pwd = dossier courant/repetoire où on est 
+ls = lister les fichiers/dossier
+cd = changer de repetoire
+cd ./.. = pour remonter 2 fois
+cd .. = pour remonter une fois
+clear = pour nettoyer la fenetre terminal
+mkdir *nom du dossier = créer un dossier
+touch *nom du fichier = créer un fichier
+nano exo2.txt = créer un fichier et ouvrir pour écrire
+cat *nom du fichier = voir le contenu du fichier
+ls -l = les droits des fichiers
+
+
+
+
+
+
+
+
+
+
+	nano
+crtl+x = pour sortir du fichier (y = pour enregistrer )
+
+
+	Git Hub
+git clone *lien copié
+git init
+git status
+git add *nom du fichier
+git commit -m "*message"
+git push
+
